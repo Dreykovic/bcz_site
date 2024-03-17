@@ -684,12 +684,12 @@ ul.btn li:last-child {
 
 .laptop .titlepage h2 {
      text-transform: none;
-     font-size: 80px;
+     font-size: 10px;
      color: #fff;
      max-width: inherit;
      border: inherit;
      font-weight: 500;
-     line-height: 80px;
+     /* line-height: 0px; */
 }
 
 .laptop_box {

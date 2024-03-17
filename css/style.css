@@ -331,6 +331,10 @@ ul.btn li:last-child {
      color: #fd6802;
 }
 
+.navigation.navbar-dark .navbar-nav .nav-link:active {
+     color: #fd6802;
+}
+
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
@@ -684,12 +688,12 @@ ul.btn li:last-child {
 
 .laptop .titlepage h2 {
      text-transform: none;
-     font-size: 80px;
+     font-size: 40px;
      color: #fff;
      max-width: inherit;
      border: inherit;
-     font-weight: 500;
-     line-height: 80px;
+     font-weight: bold;
+     line-height: 40px;
 }
 
 .laptop_box {
